@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" filepath="$PROJECT_DIR$/dubboconsumer/dubboconsumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbodemo.iml" filepath="$PROJECT_DIR$/dubbodemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubboprovider/dubboprovider.iml" filepath="$PROJECT_DIR$/dubboprovider/dubboprovider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webcomuser/webcomuser.iml" filepath="$PROJECT_DIR$/webcomuser/webcomuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webconsumer/webconsumer.iml" filepath="$PROJECT_DIR$/webconsumer/webconsumer.iml" />
     </modules>
   </component>
 </project>

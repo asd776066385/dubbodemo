@@ -13,6 +13,8 @@
         <module>dubboprovider</module>
         <module>dubboconsumer</module>
         <module>webcomuser</module>
+        <module>webconsumer</module>
+        <module>webconsumer</module>
     </modules>
 
     <properties>
